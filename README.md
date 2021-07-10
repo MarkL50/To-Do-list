@@ -1,0 +1,7 @@
+- Name of the Project :To-Do List
+- About the Project (In less than 100 words):It is a To-Do list made using html,css and javascript that is useful for organising our day to day tasks. 
+- Tech Stack Used :HTML,CSS and Javascript
+- Motivation for the project: Codathon organised by Hack Club ITER
+- How our 7 Days of Web Development helped you in making this project? :It taught us about web devolopment and how to make a website from scratch,
+- Hosted link: https://markl50.github.io/To-Do-list/
+- Your name, registration number.: Aditya Prakash,2041016258
